@@ -1,0 +1,9 @@
+{
+  "name": "page-loader",
+  "version": "1.0.0",
+  "description": "page loader can save pages from links ",
+  "main": "index.js",
+  "repository": "https://github.com/koshun/fullstack-javascript-project-4",
+  "author": "koshun",
+  "license": "MIT"
+}
